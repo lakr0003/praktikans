@@ -99,7 +99,7 @@ span.h2 {
 .skills {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  align-items: center;
+  align-items: self-start;
   gap: 35px;
 }
 
